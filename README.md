@@ -5,7 +5,7 @@ Extended Graphics library for Python Students (Extends the graphics.py library b
 
 Example Usage:
 
-    w=GraphWin('Example!', 500, 500)
-		curKey=w.checkKey() #Get input from keyboard
-		if(curKey == "Up"):
-		  #Do something here if the key has been pressed!
+	w=GraphWin('Example!', 500, 500)
+	curKey=w.checkKey() #Get input from keyboard
+	if(curKey == "Up"):
+		#Do something here if the key has been pressed!
